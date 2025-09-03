@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Daniel González Arbelo, a Mathematics and Computer Science graduate, eager to begin my professional journey.
+
+I enjoy **competitive programming** and exploring **pure mathematics**.
+Outside of work, you'll often find me **climbing** 🧗‍♂️
+
+Feel free to reach out through my socials!
 <!--
 **dgonzalezarbelo/dgonzalezarbelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
