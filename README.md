@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Daniel González Arbelo, a Mathematics and Computer Science graduate, eager to begin my professional journey.
+I'm Daniel González Arbelo, a Mathematics and Computer Science graduate, currently working at Bending Spoons.
 
 I enjoy **competitive programming** and exploring **pure mathematics**.
 Outside of work, you'll often find me **climbing** 🧗‍♂️
